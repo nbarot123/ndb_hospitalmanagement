@@ -1,0 +1,15 @@
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\bin\Debug\net6.0\HospitalManagement.Core.deps.json
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\bin\Debug\net6.0\HospitalManagement.Core.dll
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\bin\Debug\net6.0\HospitalManagement.Core.pdb
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\obj\Debug\net6.0\HospitalManagement.Core.csproj.AssemblyReference.cache
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\obj\Debug\net6.0\HospitalManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\obj\Debug\net6.0\HospitalManagement.Core.AssemblyInfoInputs.cache
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\obj\Debug\net6.0\HospitalManagement.Core.AssemblyInfo.cs
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\obj\Debug\net6.0\HospitalManagement.Core.csproj.CoreCompileInputs.cache
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\obj\Debug\net6.0\HospitalManagement.Core.dll
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\obj\Debug\net6.0\refint\HospitalManagement.Core.dll
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\obj\Debug\net6.0\HospitalManagement.Core.pdb
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\obj\Debug\net6.0\ref\HospitalManagement.Core.dll
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\bin\Debug\net6.0\HospitalManagement.Domain.dll
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\bin\Debug\net6.0\HospitalManagement.Domain.pdb
+E:\PROJECTS\HospitalManagement\API\HospitalManagement\HospitalManagement.Core\obj\Debug\net6.0\HospitalManagement.Core.csproj.CopyComplete
